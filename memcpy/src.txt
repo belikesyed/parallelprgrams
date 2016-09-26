@@ -1,0 +1,768 @@
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+     ______________________________________________________________________________
+Md Syed Ahamad
+IIITG Hostel, Shine Heaven Apartment,						syedahamad10@gmail.com
+Bhagorbori Road,			        		              	http://greenelectronk.blogspot.in/	
+Panjabari, Ghy – 037.								+918753043475
+_____________________________________________________________________________
+
+ OBJECTIVE:	Seeking for a relevant job.
+
+EDUCATION:	Indian Institute of Information Technology Guwahati (IIITG), NC, CPI: 7.89/10.0          2013 - 2017
+		Bachelor of Technology in Computer Science Engineering.
+Coursework: Programming Languages, Operating Systems, Data Structures 
+and Algorithms, Computer    Networks and Security, Databases, System analysis
+and designs etc.
+		
+		Narayana Junior College, Mehdipatnam, PC: 95.6/100.0			            2012 - 2013
+		Intermediate Public Examination (12TH).
+_____________________________________________________________________________
+
+INTERNSHIP:	Indian Institute of Technology Guwahati (IITG).
+		Worked on virtual lab, developing sandhi blocks in python.
+
+ACADEMIC PROJECT:
+1. Web Application Security.
+OWASP top 10 - 2013, Analysis of Injection through WebGoat Project, prevention mechanism and detection of SQL Injection.
+Duration: 4 months (4th Semester).
+Role: Analysis, Theory and Implementation.
+2. ATM Management System.
+Implementation of basic ATM system through relational database, handling security measures etc.
+Duration: 4 months (4th Semester).
+Role: Implementation in Database System.
+3. Flight Ticket Booking
+ It follows the procedures of Software engineering project formals – maintaining issue tracker, Requirement phase, Design phase, Implementation phase, testing etc.
+https://github.com/deepakjangid123/Flight-Ticket-Booking
+Duration: 4 months (6th Semester).
+Role: Implementation.
+4. Development of COAP based application for home automation system.
+Implementation of Client-Server application using Californium library to control end-devices. Client is developed as Android application. Controlling light, remote features of TV and AC, fan speed are some of the features. It aims to give excellent UX, more economy application. 
+Duration: 1.5 years (6th, 7th, 8th Semester).
+Tools: Eclipse, Maven, Android Studio etc.    Embedded Platform: Intel Galileo Gen2
+Role: Analysis and Implementation.
+
+TECHNICAL SKILLS:
+-Programming/Script Language: C, Java, MySQL, Python, JSP, OpenGL etc.
+-OS: MS Windows, Linux, etc.
+_____________________________________________________________________________
+
+EXTRA-CURRICULAR ACTIVITIES:
+-Attended Android Development Workshop in IIT Guwahati (2014).
+-Participated District Level Essay Competition and won first prize (2010).
+-Got second prize in a Singing Competition (2009).
+-President, Student Union, Uchiwa High School, Uchiwa (2009-10).
+
+AREA OF INTEREST:
+IoT, Networking, Security, Programming etc.
+_____________________________________________________________________________
